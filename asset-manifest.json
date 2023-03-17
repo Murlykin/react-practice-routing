@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-practice-routing/static/css/main.bb551a10.css",
+    "main.js": "/react-practice-routing/static/js/main.ecfddc77.js",
+    "static/js/557.05ecbdd2.chunk.js": "/react-practice-routing/static/js/557.05ecbdd2.chunk.js",
+    "static/js/493.496287e7.chunk.js": "/react-practice-routing/static/js/493.496287e7.chunk.js",
+    "static/js/937.29d71277.chunk.js": "/react-practice-routing/static/js/937.29d71277.chunk.js",
+    "static/js/845.08ed8363.chunk.js": "/react-practice-routing/static/js/845.08ed8363.chunk.js",
+    "static/js/651.18cc46f9.chunk.js": "/react-practice-routing/static/js/651.18cc46f9.chunk.js",
+    "static/js/229.0c26f9f1.chunk.js": "/react-practice-routing/static/js/229.0c26f9f1.chunk.js",
+    "static/js/681.17a40d31.chunk.js": "/react-practice-routing/static/js/681.17a40d31.chunk.js",
+    "static/js/128.e9fb10f5.chunk.js": "/react-practice-routing/static/js/128.e9fb10f5.chunk.js",
+    "index.html": "/react-practice-routing/index.html",
+    "main.bb551a10.css.map": "/react-practice-routing/static/css/main.bb551a10.css.map",
+    "main.ecfddc77.js.map": "/react-practice-routing/static/js/main.ecfddc77.js.map",
+    "557.05ecbdd2.chunk.js.map": "/react-practice-routing/static/js/557.05ecbdd2.chunk.js.map",
+    "493.496287e7.chunk.js.map": "/react-practice-routing/static/js/493.496287e7.chunk.js.map",
+    "937.29d71277.chunk.js.map": "/react-practice-routing/static/js/937.29d71277.chunk.js.map",
+    "845.08ed8363.chunk.js.map": "/react-practice-routing/static/js/845.08ed8363.chunk.js.map",
+    "651.18cc46f9.chunk.js.map": "/react-practice-routing/static/js/651.18cc46f9.chunk.js.map",
+    "229.0c26f9f1.chunk.js.map": "/react-practice-routing/static/js/229.0c26f9f1.chunk.js.map",
+    "681.17a40d31.chunk.js.map": "/react-practice-routing/static/js/681.17a40d31.chunk.js.map",
+    "128.e9fb10f5.chunk.js.map": "/react-practice-routing/static/js/128.e9fb10f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb551a10.css",
+    "static/js/main.ecfddc77.js"
+  ]
+}
