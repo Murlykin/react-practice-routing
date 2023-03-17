@@ -12,7 +12,7 @@ const root = createRoot(rootElement);
 
 root.render(
   <StrictMode>
-    <BrowserRouter basename="/routing/">
+    <BrowserRouter basename="/react-practice-routing/">
       <App />
     </BrowserRouter>
   </StrictMode>
